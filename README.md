@@ -12,3 +12,5 @@ When I'm not busy with school and work I enjoy going on runs and working on my r
 More mapping techniques and tools to explore my policy interests, especially around housing and education, as well as timely issues stemming from the COVID-19 crisis. There have been many tools introduced for mapping but data visualization concepts are what determines whether the audience understands your point. One of my goals is to combine best practices from mapping data and visualization and build good habits going forward. Another things I want to learn is using the sites available to us as students and have a foundation for a portfolio before graduating.
 
 # Portfolio
+
+https://jessica-mendieta.github.io/District-2-Resources/ 
