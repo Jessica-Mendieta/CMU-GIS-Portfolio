@@ -14,4 +14,3 @@ More mapping techniques and tools to explore my policy interests, especially aro
 # Portfolio
 
 ## Sheet Mapper Excercise 
-[NYC Council District 2 Resources](https://jessica-mendieta.github.io/District-2-Resources/)
