@@ -13,4 +13,8 @@ More mapping techniques and tools to explore my policy interests, especially aro
 
 # Portfolio
 
-## Sheet Mapper Excercise 
+## Sheet Mapper Tutorial
+
+For this lab I created a map that shows the businesses in the districts of NYC Councilmemmber Carlina River and NYS Assemblymember Yuh-Line Niou based on whether they have senior shopping hours, are a transportation essential business, or are a small business. This information came from their Twitter feed and was listed on a spreadsheet I linked to the map for real-time updates.
+
+[Featured Businesses in Lower Manhattan](https://jessica-mendieta.github.io/Featured-Businesses-Manhattan/)
