@@ -17,3 +17,5 @@ More mapping techniques and tools to explore my policy interests, especially aro
 
 For this lab assignment I created a map that shows businesses in the districts of NYC Councilmemmber Carlina Rivera and NYS Assemblymember Yuh-Line Niou based on whether they have senior shopping hours, are a bike shop or small business. This information came from their Twitter feed and is listed on a spreadsheet I linked to the map for real-time updates.
 
+https://featured-lowermanhattan-businesses.glitch.me
+
