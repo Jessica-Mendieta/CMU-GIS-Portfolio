@@ -15,7 +15,7 @@ More mapping techniques and tools to explore my policy interests, especially aro
 
 ## [Sheet Mapper Tutorial](https://www.mapbox.com/impact-tools/sheet-mapper/)
 
-###### Assignment Description
+###### Assignment Description and Products
 
 I completed the Mapbox Sheet Mapper tutorial to show businesses in the districts of NYC Councilmemmber Carlina Rivera and NYS Assemblymember Yuh-Line Niou based on whether they have senior shopping hours, are a bike shop or small business. This information came from their Twitter feed between April 1 and 8 and is listed on a Google spreadsheet. To customize the code and create the website I used the Glitch app.
 
