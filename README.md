@@ -22,3 +22,7 @@ I completed the [Mapbox Sheet Mapper tutorial](https://www.mapbox.com/impact-too
 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1X9Tv_bW3JYhG05UzS5FwN-QpKZyTPy1KahnLib13im8/edit#gid=0)
 
 [Map of Featured Businesses in Lower Manhattan](https://featured-lowermanhattan-businesses.glitch.me)
+
+## Create a Custom ArcGIS Map Style
+
+Using an picture I took during a visit to the Brooklyn Museum, I created a [custom ArcGIS map stlye](https://basemaps.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer) that can be used as a basemap for other projects.
