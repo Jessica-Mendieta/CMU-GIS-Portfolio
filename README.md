@@ -25,4 +25,4 @@ I completed the [Mapbox Sheet Mapper tutorial](https://www.mapbox.com/impact-too
 
 ## Create a Custom ArcGIS Map Style
 
-Using an picture I took during a visit to the Brooklyn Museum, I created a [custom ArcGIS map stlye](https://basemaps.arcgis.com/arcgis/rest/services/World_Basemap_v2/VectorTileServer) that can be used as a basemap for other projects.
+Using an picture I took during a visit to the Brooklyn Museum, I created a [custom ArcGIS map stlye](https://arcg.is/1nDCyb) that can be used as a basemap for other projects.
