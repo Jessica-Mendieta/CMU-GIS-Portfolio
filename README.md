@@ -22,11 +22,13 @@ Using an picture I took during a visit to the Brooklyn Museum, I created a [cust
 
 ![Image and Palette](style_map/bm_palette_image.JPG)
 #### [Mapbox Studio Style Editor](https://docs.mapbox.com/help/tutorials/create-a-custom-style/)
-This time I created a [custom Mapbox style](https://api.mapbox.com/styles/v1/jmendieta/ck9p2w1n72qu31ipb03h9xlq4.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiam1lbmRpZXRhIiwiYSI6ImNrN3V6enNrbTA2ODIzZnBlbmZhZDN5azcifQ.cs3hBZjhkgwdHR_m4bD5yQ) with a color palette based generated from a picture I took of Grand Central Station then exported it to ArcGIS Online to use as a basemap.
+This time I created a [custom Mapbox style](https://api.mapbox.com/styles/v1/jmendieta/ck9p2w1n72qu31ipb03h9xlq4.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiam1lbmRpZXRhIiwiYSI6ImNrN3V6enNrbTA2ODIzZnBlbmZhZDN5azcifQ.cs3hBZjhkgwdHR_m4bD5yQ) with a color palette generated from a picture I took of Grand Central Station then exported it to ArcGIS Online to use as a basemap.
 
 ![Picture and Palette](style_map/gs_palette_image.JPG)
 #### [Google Style Map](https://mapstyle.withgoogle.com/)
-Another way to create a custom map style is with Google's Styling Wizard, and I used a picture taken of Grand Central Station with the Chrysler Building in the background as an inspiration for the color palette. 
+Another way to create a custom map style is with Google's Styling Wizard, and I used a picture taken of City Hall during the USWNT's ticker tape parade as an inspiration for the color palette. 
+
+![Pic and Palette](style_map/ch_palette_image.JPG)
 
 ## 3. Final Project
 
