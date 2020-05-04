@@ -6,6 +6,7 @@ I'm a born and raised New Yorker who loves exploring the city and learning somet
 ### What I Hope to Learn
 More mapping techniques and tools to explore my policy interests, especially around housing and education, as well as timely issues stemming from the COVID-19 crisis. There have been many tools introduced for mapping but data visualization concepts are what determines whether the audience understands your point. One of my goals is to combine best practices from mapping and visualization to build good habits going forward, while creating a portfolio that shows my progress.
 
+
 # Portfolio
 ## 1. Sheet Mapper Tutorial
 ### Assignment Description and Products
@@ -15,21 +16,23 @@ I completed the [Mapbox Sheet Mapper tutorial](https://www.mapbox.com/impact-too
 
  * [Map of Featured Businesses in Lower Manhattan](https://featured-lowermanhattan-businesses.glitch.me)
 
+
 ## 2. Create a Custom Map Style
-### [ArcGIS Vector Style Editor](https://developers.arcgis.com/vector-tile-style-editor/)
+### ArcGIS Vector Style Editor
 Using an picture I took during a visit to the Brooklyn Museum, I created a [custom ArcGIS map style](https://arcg.is/1nDCyb) that can be used as a basemap for other projects.
 
 ![Image and Palette](style_map/bm_palette_image.JPG)
-### [Mapbox Studio Style Editor](https://docs.mapbox.com/help/tutorials/create-a-custom-style/)
-This time I created a [custom Mapbox style](https://api.mapbox.com/styles/v1/jmendieta/ck9p2w1n72qu31ipb03h9xlq4.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiam1lbmRpZXRhIiwiYSI6ImNrN3V6enNrbTA2ODIzZnBlbmZhZDN5azcifQ.cs3hBZjhkgwdHR_m4bD5yQ) with a color palette generated from a picture I took of Grand Central Station then exported it to ArcGIS Online to use as a basemap.
+### Mapbox Studio Style Editor
+This time I created a [custom Mapbox style](https://api.mapbox.com/styles/v1/jmendieta/ck9p2w1n72qu31ipb03h9xlq4.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiam1lbmRpZXRhIiwiYSI6ImNrN3V6enNrbTA2ODIzZnBlbmZhZDN5azcifQ.cs3hBZjhkgwdHR_m4bD5yQ) with a color palette generated from a picture I took of Grand Central Station.
 
 ![Picture and Palette](style_map/gs_palette_image.JPG)
-### [Google Style Map](https://mapstyle.withgoogle.com/)
+### Google Style Map
 Another way to create a custom map style is with Google's Styling Wizard, and I used a picture taken of City Hall during the USWNT's ticker tape parade as an inspiration for the color palette. 
 
 ![Pic and Palette](style_map/ch_palette_image.JPG)
 
 ![Google Style](style_map/ch_googlestyle.PNG)
+
 
 ## 3. Final Project
 
