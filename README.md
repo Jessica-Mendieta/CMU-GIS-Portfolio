@@ -24,5 +24,6 @@ This time I created a [custom Mapbox style](https://api.mapbox.com/styles/v1/jme
 
 ## 3. Final Project
 
-For the final project, a team of students analyzed the immigrant population in the U.S. using data from the American Community Survey, the Immigration Legal Resource Center, and local and state government websites with information on COVID-19 testing sites.
+For the final project, a team of students analyzed the immigrant population in the U.S. using data from the American Community Survey, the Immigration Legal Resource Center, and local and state government websites with information on COVID-19 testing sites. We wanted to show states and select counties with a high immigrant population and their access to healthcare sites compared to the county's anti-Immigration and Customs Enforcement policies and hope immigration advocacy organizations can use this information to target their efforts and develope strategies.
+
 [COVID-19 and Non-Citizen Communities](https://arcg.is/1OjWnv0)
