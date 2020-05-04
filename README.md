@@ -8,7 +8,7 @@ I'm a born and raised New Yorker who loves exploring the city and learning somet
 More mapping techniques and tools to explore my policy interests, especially around housing and education, as well as timely issues stemming from the COVID-19 crisis. There have been many tools introduced for mapping but data visualization concepts are what determines whether the audience understands your point. One of my goals is to combine best practices from mapping and visualization to build good habits going forward, while creating a portfolio that shows my progress.
 
 # Portfolio
-## Sheet Mapper Tutorial
+## 1. Sheet Mapper Tutorial
 #### Assignment Description and Products
 I completed the [Mapbox Sheet Mapper tutorial](https://www.mapbox.com/impact-tools/sheet-mapper/) to show businesses in the districts of NYC Councilmember Carlina Rivera and NYS Assemblymember Yuh-Line Niou based on whether they have senior shopping hours, are a bike shop or small business. This information came from their Twitter feed between April 1 and 8 and is listed on a Google spreadsheet. To customize the code and create the website I used the Glitch app.
 
@@ -16,7 +16,7 @@ I completed the [Mapbox Sheet Mapper tutorial](https://www.mapbox.com/impact-too
 
  * [Map of Featured Businesses in Lower Manhattan](https://featured-lowermanhattan-businesses.glitch.me)
 
-## Create a Custom Map Style
+## 2. Create a Custom Map Style
 #### [ArcGIS Vector Style Editor](https://developers.arcgis.com/vector-tile-style-editor/)
 Using an picture I took during a visit to the Brooklyn Museum, I created a [custom ArcGIS map style](https://arcg.is/1nDCyb) that can be used as a basemap for other projects.
 #### [Mapbox Studio Style Editor](https://docs.mapbox.com/help/tutorials/create-a-custom-style/)
