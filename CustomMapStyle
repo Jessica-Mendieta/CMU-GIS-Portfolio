@@ -1,0 +1,9 @@
+# 2. Create a Custom Map Style
+
+## ArcGIS Vector Style Editor
+Using an picture I took during a visit to the Brooklyn Museum, I created a custom ArcGIS map style that can be used as a basemap for other projects.
+
+##Mapbox Studio Style Editor
+This time I created a custom Mapbox style with a color palette based generated from a picture I took of Grand Central Station then exported it to ArcGIS Online to use as a basemap.
+
+##Custom Google Map Style
