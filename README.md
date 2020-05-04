@@ -1,9 +1,9 @@
 # Geographic Information Systems (GIS) Portfolio
 
-## About Me
+### About Me
 I'm a born and raised New Yorker who loves exploring the city and learning something about it as often as I can. As someone who attended public institutions throughout her K-12 and undergraduate education, I saw how the gaps in access to resources worsen intergenerational inequality. To learn more about quantitative methods in public policy analysis to tackle that challenge, I enrolled at Heinz College in Carnegie Mellon University to earn my Master of Science in Public Policy and Management. It's inspiring to know that there are many people who want to work in the public sector and I met many of them at Heinz. My coursework was enhanced by a GIS class I took during my second semester, which prepared me for an internship at the NYC Mayor's Office of Resiliency, and that helped me learn more about my city and apply the skills from my other classes - it was a very fulfilling experience. When I'm not busy with school and work I enjoy going on runs and getting through my reading list, but usually I'm just rewatching my favorites comedies (Parks and Rec is my all-time favorite). 
 
-## What I Hope to Learn
+### What I Hope to Learn
 More mapping techniques and tools to explore my policy interests, especially around housing and education, as well as timely issues stemming from the COVID-19 crisis. There have been many tools introduced for mapping but data visualization concepts are what determines whether the audience understands your point. One of my goals is to combine best practices from mapping and visualization to build good habits going forward, while creating a portfolio that shows my progress.
 
 # Portfolio
