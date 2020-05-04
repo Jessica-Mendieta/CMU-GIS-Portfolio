@@ -19,6 +19,8 @@ I completed the [Mapbox Sheet Mapper tutorial](https://www.mapbox.com/impact-too
 ## 2. Create a Custom Map Style
 #### [ArcGIS Vector Style Editor](https://developers.arcgis.com/vector-tile-style-editor/)
 Using an picture I took during a visit to the Brooklyn Museum, I created a [custom ArcGIS map style](https://arcg.is/1nDCyb) that can be used as a basemap for other projects.
+
+![Image and Palette](style_map/bm_palette_image.JPG)
 #### [Mapbox Studio Style Editor](https://docs.mapbox.com/help/tutorials/create-a-custom-style/)
 This time I created a [custom Mapbox style](https://api.mapbox.com/styles/v1/jmendieta/ck9p2w1n72qu31ipb03h9xlq4.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiam1lbmRpZXRhIiwiYSI6ImNrN3V6enNrbTA2ODIzZnBlbmZhZDN5azcifQ.cs3hBZjhkgwdHR_m4bD5yQ) with a color palette based generated from a picture I took of Grand Central Station then exported it to ArcGIS Online to use as a basemap.
 #### [Google Style Map](https://mapstyle.withgoogle.com/)
