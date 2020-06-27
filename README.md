@@ -8,7 +8,7 @@ More mapping techniques and tools to explore my policy interests, especially aro
 
 
 # Portfolio
-## 1. Final Project
+## 1. Spring 2020 Final Project: Immigration and COVID-19
 For the final project, a team of students analyzed the immigrant population in the U.S. using data from the American Community Survey, the Immigration Legal Resource Center, and local and state government websites with information on COVID-19 testing sites. We wanted to show states and three counties with a high immigrant population and their access to COVID-19 healthcare compared to the county's U.S. Immigration and Customs Enforcement policies and hope that advocacy organizations can use this information to target their efforts and develop strategies to protect this vulnerable group during the emergency, reopening and recovery phases.
 
 [COVID-19 and Non-Citizen Communities Story Map](https://arcg.is/1OjWnv0)
@@ -54,3 +54,8 @@ Below is a screenshot of Mingo County by the distribution map of sellers to phar
 A handy open source tool for geospatial datasets is [Kepler](http://kepler.gl/), and using data downloaded from [412 Food Rescue](https://412foodrescue.org/), a nonprofit organization based in Pittsburgh, PA, I looked at the concentration of food donors between November 14, 2016 and January 4, 2017 using the custom map style I created with Mapbox. Oakland, the Strip District, and East Liberty were neighborhoods with a high number of donor points and many of the arcs led to Hazelwood and Wilkinsburg. This tool is helpful to determine the neighborhoods with active participant, whether they're donors or recipients, which can inform the 412 Food Rescue team on where to target their outreach.
 
 ![412 Food Rescue Distribution](footprint_images/412_Trips_111416_010417.JPG)
+
+## 5. Spring 2019 Final Project: Stop-and-Frisk in New York City
+Using the database from the NYPD website, a comparison between 2011, the  year with the highest number of stops, and 2018, the most recent year, was made to determine the changes in the number of stops made, where they are made, and who is stopped. Only stops with XY coordinates available were analyzed, and there was a filter to only examine males who were stopped, given the reports on how the NYPD disproportionately targets young men of color.
+
+[Stop and Frisk in New York City: 2011 and 2018](https://arcg.is/OGbXa) 
