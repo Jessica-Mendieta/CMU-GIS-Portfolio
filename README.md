@@ -58,4 +58,4 @@ A handy open source tool for geospatial datasets is [Kepler](http://kepler.gl/),
 ## 5. Spring 2019 Final Project: Stop-and-Frisk in New York City
 Using the database from the NYPD website, a comparison between 2011, the  year with the highest number of stops, and 2018, the most recent year, was made to determine the changes in the number of stops made, where they are made, and who is stopped. Only stops with XY coordinates available were analyzed, and there was a filter to only examine males who were stopped, given the reports on how the NYPD disproportionately targets young men of color.
 
-[Stop and Frisk in New York City: 2011 and 2018](https://arcg.is/OGbXa) 
+[Stop and Frisk in New York City: 2011 and 2018 Story Map](https://arcg.is/OGbXa) 
