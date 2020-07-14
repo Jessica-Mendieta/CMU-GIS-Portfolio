@@ -41,8 +41,7 @@ This time I created a custom Mapbox style with their Style Editor tutorial using
 Another way to create a custom map style is with Google's Styling Wizard, and I used a picture taken of City Hall during the USWNT's ticker tape parade as an inspiration for the color palette. 
 
 <p align="center">
-  <img src="style_map/ch_palette_image.JPG" width="455" height="455">
-  <img src="style_map/ch_googlestyle.PNG" width="455" height="455">
+  <img src="style_map/ch_palette_image.JPG" width="455" height="455"> <img src="style_map/ch_googlestyle.PNG" width="455" height="455">
 </p>
 
 ## 4. Geographic Footprints
