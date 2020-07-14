@@ -10,12 +10,17 @@ For the final project, a team of students analyzed the immigrant population in t
 [COVID-19 and Non-Citizen Communities Story Map](https://arcg.is/1OjWnv0)
 
 ## 2. Sheet Mapper Tutorial
-#### Assignment Description and Products
+#### Businesses in Lower Manhattan
 I completed the [Mapbox Sheet Mapper tutorial](https://www.mapbox.com/impact-tools/sheet-mapper/) to show businesses in the districts of NYC Councilmember Carlina Rivera and NYS Assemblymember Yuh-Line Niou based on whether they have senior shopping hours, are a bike shop or small business. This information came from their Twitter feed between April 1 and 8 and is listed on a Google spreadsheet. To customize the code and create the website I used the Glitch app.
 
  * [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1X9Tv_bW3JYhG05UzS5FwN-QpKZyTPy1KahnLib13im8/edit#gid=0)
 
  * [Map of Featured Businesses in Lower Manhattan](https://featured-lowermanhattan-businesses.glitch.me)
+ 
+ #### Old DC Manhole Covers
+ The DC Council launched a scavenger hunt challenge on its [Twitter](https://twitter.com/councilofdc/status/1254763519029006336) page on April 27 asking residents to post an image of old manholes they found around the District. These run 1891 to 1908, though the challenge is for someone to find one ouside that range. As submissions increased, I volunteered to map out where they were found, and this is my map submission.
+ 
+ * [Map of Old DC Manhole Covers](https://old-dc-manhole-covers.glitch.me/)
 
 ## 3. Create a Custom Map Style
 ### ArcGIS Vector Style Editor
@@ -35,9 +40,10 @@ This time I created a custom Mapbox style with their Style Editor tutorial using
 ### Google Style Map
 Another way to create a custom map style is with Google's Styling Wizard, and I used a picture taken of City Hall during the USWNT's ticker tape parade as an inspiration for the color palette. 
 
-![Pic and Palette](style_map/ch_palette_image.JPG)
-
-![Google Style](style_map/ch_googlestyle.PNG)
+<p align="center">
+  <img src="style_map/ch_palette_image.JPG" width="455" height="455">
+  <img src="style_map/ch_googlestyle.PNG" width="455" height="455">
+</p>
 
 ## 4. Geographic Footprints
 ### ArcGIS Insights
