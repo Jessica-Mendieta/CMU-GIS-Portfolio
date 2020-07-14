@@ -29,7 +29,7 @@ Using a color palette generated from a picture I took during a visit to the Broo
  * [ArcGIS Custom Basemap](https://arcg.is/1nDCyb)
 
 <p align="center">
-  <img src="style_map/bm_palette_image.JPG" width="355" height="355"> <img src="style_map/bm-map.JPG" width="455" height="355">
+  <img src="style_map/bm_palette_image.JPG" width="355" height="355"><img src="style_map/bm-map.JPG" width="455" height="355">
 </p>
 
 ### Mapbox Studio Style Editor
@@ -38,14 +38,14 @@ This time I created a custom Mapbox style with their Style Editor tutorial using
  * [Mapbox Style](https://api.mapbox.com/styles/v1/jmendieta/ck9p2w1n72qu31ipb03h9xlq4.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiam1lbmRpZXRhIiwiYSI6ImNrN3V6enNrbTA2ODIzZnBlbmZhZDN5azcifQ.cs3hBZjhkgwdHR_m4bD5yQ)
 
 <p align="center">
-  <img src="style_map/gs_palette_image.JPG" width="355" height="355"> <img src="style_map/mb-map.JPG" width="500" height="355">
+  <img src="style_map/gs_palette_image.JPG" width="355" height="355"><img src="style_map/mb-map.JPG" width="455" height="255">
 </p>
 
 ### Google Style Map
 Another way to create a custom map style is with Google's Styling Wizard, and I used a picture taken of City Hall during the USWNT's ticker tape parade as an inspiration for the color palette. 
 
 <p align="center">
-  <img src="style_map/ch_palette_image.JPG" width="355" height="355"> <img src="style_map/ch_googlestyle.PNG" width="355" height="355">
+  <img src="style_map/ch_palette_image.JPG" width="355" height="355"><img src="style_map/ch_googlestyle.PNG" width="355" height="355">
 </p>
 
 ## 4. Geographic Footprints
