@@ -28,20 +28,24 @@ Using a color palette generated from a picture I took during a visit to the Broo
 
  * [ArcGIS Custom Basemap](https://arcg.is/1nDCyb)
 
-![Image and Palette](style_map/bm_palette_image.JPG)
+<p align="center">
+  <img src="style_map/bm_palette_image.JPG" width="355" height="355"> <img src="style_map/bm-map.JPG" width="455" height="355">
+</p>
 
 ### Mapbox Studio Style Editor
 This time I created a custom Mapbox style with their Style Editor tutorial using a color palette generated from a picture I took of Grand Central Station.
 
  * [Mapbox Style](https://api.mapbox.com/styles/v1/jmendieta/ck9p2w1n72qu31ipb03h9xlq4.html?fresh=true&title=view&access_token=pk.eyJ1Ijoiam1lbmRpZXRhIiwiYSI6ImNrN3V6enNrbTA2ODIzZnBlbmZhZDN5azcifQ.cs3hBZjhkgwdHR_m4bD5yQ)
 
-![Picture and Palette](style_map/gs_palette_image.JPG)
+<p align="center">
+  <img src="style_map/gs_palette_image.JPG" width="355" height="355"> <img src="style_map/mb-map.JPG" width="500" height="355">
+</p>
 
 ### Google Style Map
 Another way to create a custom map style is with Google's Styling Wizard, and I used a picture taken of City Hall during the USWNT's ticker tape parade as an inspiration for the color palette. 
 
 <p align="center">
-  <img src="style_map/ch_palette_image.JPG" width="455" height="455"> <img src="style_map/ch_googlestyle.PNG" width="455" height="455">
+  <img src="style_map/ch_palette_image.JPG" width="355" height="355"> <img src="style_map/ch_googlestyle.PNG" width="355" height="355">
 </p>
 
 ## 4. Geographic Footprints
@@ -49,12 +53,16 @@ Another way to create a custom map style is with Google's Styling Wizard, and I 
 This assignment had us use the desktop version of ArcGIS Insights to conduct an analysis on the [Drug Enforcement Administration's (DEA) pain pill database](https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/) released by the Washington Post. The DEA database tracks the shipment of all pain pills sold in the United States by manufacturers and distributors in every town and city. Mingo County, WV was the county selected due to its high rates of prescription compated to the number of residents in the surrounding area.
 Below is a screenshot of Mingo County by the distribution map of sellers to pharmacies compared to the number of pharmacies with the highest number of shipments. The amount of pills shipped to the Countyis alarming given the small number of distributors and population.
 
-![Mingo County Distribution](footprint_images/mingo_wv_distribution.JPG)
+<p align="center">
+  <img src="footprint_images/mingo_wv_distribution.JPG" width="655" height="455">
+</p>
 
 ### Kepler
 A handy open source tool for geospatial datasets is [Kepler](http://kepler.gl/), and using data downloaded from [412 Food Rescue](https://412foodrescue.org/), a nonprofit organization based in Pittsburgh, PA, I looked at the concentration of food donors between November 14, 2016 and January 4, 2017 using the custom map style I created with Mapbox. Oakland, the Strip District, and East Liberty were neighborhoods with a high number of donor points and many of the arcs led to Hazelwood and Wilkinsburg. This tool is helpful to determine the neighborhoods with active participant, whether they're donors or recipients, which can inform the 412 Food Rescue team on where to target their outreach.
 
-![412 Food Rescue Distribution](footprint_images/412_Trips_111416_010417.JPG)
+<p align="center">
+  <img src="footprint_images/412_Trips_111416_010417.JPG" width="655" height="455">
+</p>
 
 ## 5. Spring 2019 Final Project: Stop-and-Frisk in New York City
 Using the database from the NYPD website, a comparison between 2011, the  year with the highest number of stops, and 2018, the most recent year, was made to determine the changes in the number of stops made, where they are made, and who is stopped. Only stops with XY coordinates available were analyzed, and there was a filter to only examine males who were stopped, given the reports on how the NYPD disproportionately targets young men of color.
