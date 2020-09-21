@@ -1,7 +1,7 @@
 # Geographic Information Systems (GIS) Portfolio
 
 ### About Me
-I'm a born and raised New Yorker who loves exploring the city and learning something about it as often as I can. As someone who attended public schools throughout her K-12 and undergraduate education, I saw how the gaps in access to resources worsen intergenerational disparities. To learn more about quantitative methods in public policy analysis to tackle that challenge, I enrolled at Heinz College in Carnegie Mellon University to earn my Master of Science in Public Policy and Management. It's inspiring to know that there are many people who want to work in the public sector and I met many of them at Heinz. My coursework was enhanced by a GIS class I took during my second semester, which helped me learn more about my city and apply the skills from my other classes - it was a very fulfilling experience. When I'm not busy with school and work I enjoy going on runs and getting through my reading list, but usually I'm just rewatching my favorite comedies (Parks and Rec is my all-time favorite). 
+I'm a born and raised New Yorker who loves exploring the city and learning something about it whenever I can. As someone who attended public school throughout her K-12 and undergraduate education, I saw how the gaps in access to resources worsen intergenerational disparities. To learn more about quantitative methods in public policy analysis to tackle that challenge, I enrolled at Heinz College in Carnegie Mellon University to earn my Master of Science in Public Policy and Management. It's inspiring to know that there are many people who want to work in the public sector and I met many of them at Heinz. My coursework was enhanced by a GIS class I took during my second semester, which helped me learn more about my city and apply skills from other classes - it was a very fulfilling experience. When I'm not busy with school and work I enjoy going on runs and getting through my reading list, but usually I'm just rewatching my favorite comedies (Parks and Rec is my all-time favorite). 
 
 # Portfolio
 ## 1. Spring 2020 Final Project: Immigration and COVID-19
@@ -16,11 +16,7 @@ I completed the [Mapbox Sheet Mapper tutorial](https://www.mapbox.com/impact-too
  * [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1X9Tv_bW3JYhG05UzS5FwN-QpKZyTPy1KahnLib13im8/edit#gid=0)
 
  * [Map of Featured Businesses in Lower Manhattan](https://featured-lowermanhattan-businesses.glitch.me)
- 
- #### Old DC Manhole Covers
- The DC Council launched a scavenger hunt challenge on its [Twitter](https://twitter.com/councilofdc/status/1254763519029006336) page on April 27 asking residents to post an image of old manholes they found around the District. These run 1891 to 1908, though the challenge is for someone to find one ouside that range. As submissions increased, I volunteered to map out where they were found, and this is my map submission.
- 
- * [Map of Old DC Manhole Covers](https://old-dc-manhole-covers.glitch.me/)
+
 
 ## 3. Create a Custom Map Style
 ### ArcGIS Vector Style Editor
