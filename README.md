@@ -50,14 +50,14 @@ This assignment had us use the desktop version of ArcGIS Insights to conduct an 
 Below is a screenshot of Mingo County by the distribution map of sellers to pharmacies compared to the number of pharmacies with the highest number of shipments. The amount of pills shipped to the Countyis alarming given the small number of distributors and population.
 
 <p align="center">
-  <img src="footprint_images/mingo_wv_distribution.JPG" width="655" height="455">
+  <img src="footprint_images/mingo_wv_distribution.JPG">
 </p>
 
 ### Kepler
 A handy open source tool for geospatial datasets is [Kepler](http://kepler.gl/), and using data downloaded from [412 Food Rescue](https://412foodrescue.org/), a nonprofit organization based in Pittsburgh, PA, I looked at the concentration of food donors between November 14, 2016 and January 4, 2017 using the custom map style I created with Mapbox. Oakland, the Strip District, and East Liberty were neighborhoods with a high number of donor points and many of the arcs led to Hazelwood and Wilkinsburg. This tool is helpful to determine the neighborhoods with active participant, whether they're donors or recipients, which can inform the 412 Food Rescue team on where to target their outreach.
 
 <p align="center">
-  <img src="footprint_images/412_Trips_111416_010417.JPG" width="655" height="455">
+  <img src="footprint_images/412_Trips_111416_010417.JPG">
 </p>
 
 ## 5. Spring 2019 Final Project: Stop-and-Frisk in New York City
